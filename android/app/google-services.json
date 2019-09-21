@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873249078567",
+    "firebase_url": "https://omran-f27ac.firebaseio.com",
+    "project_id": "omran-f27ac",
+    "storage_bucket": "omran-f27ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873249078567:android:645513aecbf91738",
+        "android_client_info": {
+          "package_name": "com.Omran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873249078567-035nqhjhr750mvjdlhti89go7grogn7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUBvpqZDnbGk5-wwrxCaBtQY4wCtU878w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873249078567-035nqhjhr750mvjdlhti89go7grogn7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
