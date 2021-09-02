@@ -15,7 +15,7 @@
   "dependencies": {
     "@react-native-mapbox-gl/maps": "^7.0.4",
     "@valdio/react-native-scrollable-tabview": "^0.8.11",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "fs": "0.0.1-security",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.23",
