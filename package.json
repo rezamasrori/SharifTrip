@@ -18,7 +18,7 @@
     "axios": "^0.18.0",
     "fs": "0.0.1-security",
     "moment": "^2.24.0",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "native-base": "^2.12.1",
     "react": "16.6.3",
     "react-moment": "^0.8.4",
